@@ -203,3 +203,11 @@ The dashboard is designed to answer the following key HR analytics questions:
 - How does attrition vary across different employee experience or tenure groups?
 - How does employee attrition differ by gender and age group?
 - Which employee segments may require greater attention from an HR retention perspective?
+
+## 👨‍💻 Author
+
+**Apurba Bhawal**
+
+Aspiring Data Analyst interested in developing practical skills in data analysis, financial reporting, spreadsheet automation, and business intelligence.
+
+**Skills:** Microsoft Excel | SQL | Power BI | Python
